@@ -1,0 +1,44 @@
+h1,
+h2 {
+  color: green;
+  text-align: center;
+  font-size: 30px;
+}
+h4 {
+  color: blue;
+  text-align: end;
+  font-size: 30px;
+}
+
+div {
+  height: 400px;
+  width: auto;
+  background: rgb(191, 229, 191);
+}
+
+h3 {
+  text-align: center;
+  color: rgb(237, 180, 24);
+  font-size: 30px;
+}
+
+img {
+  height: 270px;
+  width: 260px;
+  border-radius: 50%;
+  border: 5px solid green;
+}
+
+.flex {
+  border: 2px solid green;
+  padding: 20px 20px 20px 20px;
+  /* display: flex; */
+  justify-content: row;
+}
+marquee {
+  animation-delay: 0.2s;
+}
+
+#first {
+  text-align: start;
+}
